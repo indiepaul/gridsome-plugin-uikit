@@ -1,0 +1,30 @@
+{
+  "name": "gridsome-plugin-uikit",
+  "version": "1.0.0",
+  "description": "Add UIKit to a Gridsome project.",
+  "main": "gridsome.client.js",
+  "license": "MIT",
+  "keywords": [
+    "gridsome-plugin",
+    "gridsome",
+    "uikit"
+  ],
+  "author": "Paul Mtali <null@iamundefined.xyz> (https://iamundefined.xyz)",
+  "homepage": "https://github.com/indiepaul/gridsome-plugin-uikit#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/indiepaul/gridsome-plugin-uikit.git"
+  },
+  "bugs": {
+    "url": "https://github.com/indiepaul/gridsome-plugin-uikit/issues"
+  },
+  "dependencies": {
+    "uikit": "^3.2.7"
+  },
+  "files": [
+    "gridsome.client.js"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
